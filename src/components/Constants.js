@@ -1,1 +1,1 @@
-export const BASEURL = "http://e1ae0abd.ngrok.io"
+export const BASEURL = "http://69c24250.ngrok.io"
